@@ -1,1 +1,2 @@
 # Airplane-Satisfaction-Analysis
+This project analyzes airline passenger satisfaction data using data cleaning and exploratory data analysis (EDA) to identify key drivers of customer experience. Visualizations were created to compare satisfied and dissatisfied passengers, and multiple classification models—including Decision Tree, Naive Bayes, Support Vector Machine (SVM), and Logistic Regression—were trained. Model performance was evaluated using accuracy metrics to identify the best-performing approach, and insights were derived to support data-driven service improvements.
